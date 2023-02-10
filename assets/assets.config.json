@@ -97,5 +97,14 @@
   },
   "stars.svg": {
     "mime": "image/svg+xml"
+  },
+  "call.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email.svg": {
+    "mime": "image/svg+xml"
+  },
+  "location.svg": {
+    "mime": "image/svg+xml"
   }
 }
