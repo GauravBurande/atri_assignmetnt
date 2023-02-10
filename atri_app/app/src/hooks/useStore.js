@@ -217,6 +217,9 @@ const desktopModeProps = {
     "Flex63": {
       "callbacks": {}
     },
+    "Flex78": {
+      "callbacks": {}
+    },
     "Button4": {
       "custom": {
         "text": "Reservate"

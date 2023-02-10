@@ -2154,3 +2154,15 @@ export function useImage36Cb() {
 }), [])
 	return { onClick }
 }
+export function useFlex78Cb() {
+	const onClick = useCallback(callbackFactory("Flex78", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}

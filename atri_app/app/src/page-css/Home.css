@@ -221,7 +221,7 @@ display: flex;
 .p-Home.Flex39 {
 display: flex;
 position: absolute;
-left: 200px;
+left: 300px;
 top: 400px;
 flex-direction: column;
 align-items: center;
@@ -521,6 +521,9 @@ display: flex;
 width: 50vw;
 height: 110vh;
 }
+.p-Home.Flex78 {
+display: flex;
+}
 .p-Home.Button4 {
 color: #fff;
 background-color: #FF7629;
@@ -644,6 +647,8 @@ color: #FF7629;
 width: 400px;
 height: 350px;
 border-radius: 30px;
+position: absolute;
+z-index: 1;
 }
 .p-Home.TextBox52 {
 font-family: DM Sans;
@@ -1161,8 +1166,10 @@ color: #ffffff;
 font-family: DM Sans;
 font-weight: 700;
 font-size: 35px;
-padding-left: 5px;
-padding-right: 5px;
+padding-left: 0px;
+padding-right: 0px;
+align-self: center;
+width: 23vw;
 }
 .p-Home.TextBox106 {
 width: 23vw;
