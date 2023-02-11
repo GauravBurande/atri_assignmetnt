@@ -301,6 +301,60 @@ const desktopModeProps = {
     "Flex114": {
       "callbacks": {}
     },
+    "Flex118": {
+      "callbacks": {}
+    },
+    "Flex121": {
+      "callbacks": {}
+    },
+    "Flex132": {
+      "callbacks": {}
+    },
+    "Flex129": {
+      "callbacks": {}
+    },
+    "Flex130": {
+      "callbacks": {}
+    },
+    "Flex131": {
+      "callbacks": {}
+    },
+    "Flex122": {
+      "callbacks": {}
+    },
+    "Flex124": {
+      "callbacks": {}
+    },
+    "Flex133": {
+      "callbacks": {}
+    },
+    "Flex134": {
+      "callbacks": {}
+    },
+    "Flex135": {
+      "callbacks": {}
+    },
+    "Flex138": {
+      "callbacks": {}
+    },
+    "Flex136": {
+      "callbacks": {}
+    },
+    "Flex137": {
+      "callbacks": {}
+    },
+    "Flex141": {
+      "callbacks": {}
+    },
+    "Flex139": {
+      "callbacks": {}
+    },
+    "Flex140": {
+      "callbacks": {}
+    },
+    "Flex146": {
+      "callbacks": {}
+    },
     "Div3": {
       "callbacks": {}
     },
@@ -1786,7 +1840,7 @@ const desktopModeProps = {
     "Image61": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/articles%20burger.jpeg"
+        "src": "/app-assets/sauce.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1835,7 +1889,7 @@ const desktopModeProps = {
     "Image62": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/articles%20burger.jpeg"
+        "src": "/app-assets/chicken.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1884,7 +1938,7 @@ const desktopModeProps = {
     "Image63": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/articles%20burger.jpeg"
+        "src": "/app-assets/buggu.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1933,7 +1987,7 @@ const desktopModeProps = {
     "Image64": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/articles%20burger.jpeg"
+        "src": "/app-assets/pastry.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1978,6 +2032,262 @@ const desktopModeProps = {
           }
         ]
       }
+    },
+    "TextBox153": {
+      "custom": {
+        "text": "Book your table now"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox154": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox162": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image68": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/email.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox159": {
+      "custom": {
+        "text": "losangeles@restaurantex.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image69": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/call.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox160": {
+      "custom": {
+        "text": "(414) 857 - 0107"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox161": {
+      "custom": {
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image70": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/location.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button62": {
+      "custom": {
+        "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox165": {
+      "custom": {
+        "text": "Name"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input3": {
+      "custom": {
+        "value": "",
+        "placeholder": "John Carter"
+      },
+      "callbacks": {}
+    },
+    "Input4": {
+      "custom": {
+        "value": "",
+        "placeholder": "example@email.com"
+      },
+      "callbacks": {}
+    },
+    "TextBox166": {
+      "custom": {
+        "text": "Email Address"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox167": {
+      "custom": {
+        "text": "Location"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input5": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex. Los Angeles"
+      },
+      "callbacks": {}
+    },
+    "Input6": {
+      "custom": {
+        "value": "",
+        "placeholder": "(123) 456 - 789"
+      },
+      "callbacks": {}
+    },
+    "TextBox168": {
+      "custom": {
+        "text": "Phone"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox169": {
+      "custom": {
+        "text": "Schedule"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input7": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex. 2:00PM"
+      },
+      "callbacks": {}
+    },
+    "Input8": {
+      "custom": {
+        "value": "",
+        "placeholder": "Day and Month"
+      },
+      "callbacks": {}
+    },
+    "TextBox170": {
+      "custom": {
+        "text": "Date"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox172": {
+      "custom": {
+        "text": "Add a note"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input9": {
+      "custom": {
+        "value": "",
+        "placeholder": "Do you have a note for us?"
+      },
+      "callbacks": {}
     }
   }
 }};
