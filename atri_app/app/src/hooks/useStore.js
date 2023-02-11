@@ -253,6 +253,54 @@ const desktopModeProps = {
     "Flex95": {
       "callbacks": {}
     },
+    "Flex100": {
+      "callbacks": {}
+    },
+    "Flex101": {
+      "callbacks": {}
+    },
+    "Flex102": {
+      "callbacks": {}
+    },
+    "Flex105": {
+      "callbacks": {}
+    },
+    "Flex107": {
+      "callbacks": {}
+    },
+    "Flex106": {
+      "callbacks": {}
+    },
+    "Flex108": {
+      "callbacks": {}
+    },
+    "Flex110": {
+      "callbacks": {}
+    },
+    "Flex109": {
+      "callbacks": {}
+    },
+    "Flex112": {
+      "callbacks": {}
+    },
+    "Flex111": {
+      "callbacks": {}
+    },
+    "Flex117": {
+      "callbacks": {}
+    },
+    "Flex115": {
+      "callbacks": {}
+    },
+    "Flex113": {
+      "callbacks": {}
+    },
+    "Flex116": {
+      "callbacks": {}
+    },
+    "Flex114": {
+      "callbacks": {}
+    },
     "Div3": {
       "callbacks": {}
     },
@@ -1653,6 +1701,275 @@ const desktopModeProps = {
     "Button41": {
       "custom": {
         "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox136": {
+      "custom": {
+        "text": "Our articles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox137": {
+      "custom": {
+        "text": "Browse our articles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image60": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/articles%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox138": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox139": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox140": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipisc"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image61": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/articles%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox141": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox142": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox143": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image62": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/articles%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox144": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox145": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox146": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image63": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/articles%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox147": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox148": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox149": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image64": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/articles%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox150": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox151": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox152": {
+      "custom": {
+        "text": ""
       },
       "callbacks": {
         "onClick": [
